@@ -1,5 +1,5 @@
 # Логическая игра "Cupboards"
-![OpenCommand](Doc/info.gif)
+![OpenCommand](info.gif)
 **Разработано в рамках тестового задания на позицию С++ Developer**
 
 ## Описание:
